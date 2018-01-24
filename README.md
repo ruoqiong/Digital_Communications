@@ -1,2 +1,2 @@
 # Digital_Communications
-This is a MATLAB simulation about some communication systems in 《Digital Communications》by Proakis.
+This is my MATLAB code about examination of digital communications. I upload this code just for back it up.
